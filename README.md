@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @umaaji298.
-- 👀 I’m interested in world of Araisan mansion .
-- 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on tegaki toshiaki(Tegaki-Aki).
-- 😸 How to reach me : Don't think. Feel mean me...
-- ♻ Sozai okiba : https://umaaji298.github.io/labo/
+取り掛かってるものとかをここに書くことにするよ。
+
+# VRC Projects Status
+
+## 🟢 In Progress
+- 重箱画像システム
+- 闇ワールドPublic用メンテナンス
+- PhysBoneParkUpdate
+- ダンスギミックUpdate
+
+## 🟡 Planned
+- 毒ナイフギミック
+- 新年ゴルフ大会
+- ダンス動画自動生成パイプライン
+
+## ⚪ Someday / TBD
+- ネコカモ！立つな！
+- ロケットパンチギミック
 
 <!---
 umaaji298/umaaji298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

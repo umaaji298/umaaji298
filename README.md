@@ -1,23 +1,29 @@
-取り掛かってるものとかをここに書くことにするよ。  
-熱量と締め切りが近いもの優先
+取り掛かってるものとか。熱量と締め切りが近いもの優先。
 
 # VRC Projects Status
 
 ## 🟢 In Progress
-- 重箱画像システム
-- 闇ワールドPublic用メンテナンス
-- PhysBoneParkUpdate
+- バスタオル写真🫣
+- 毒ナイフギミック
 - ダンスギミックUpdate
 
 ## 🟡 Planned
-- 毒ナイフギミック
 - 新年ゴルフ大会
 - チョコレートBooth商品
 - ダンス動画自動生成パイプライン
 
+
 ## ⚪ Someday / TBD
+- ずんだもん体操ワールド
 - ネコカモ！立つな！
 - ロケットパンチギミック
+- コニカチャンもちフィッター順方向 (left upさんと相談)
+
+### ⚫ Close
+- 重箱画像システム(2025/12/22)
+- 闇ワールドPublic用メンテナンス(2025/12/23)
+- PhysBoneParkUpdate(2025/12/24)
+
 
 <!---
 umaaji298/umaaji298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

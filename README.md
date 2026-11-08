@@ -2,7 +2,7 @@
 🚩毎月１個なんか作るぞ～計画進行中
 
 # VRC Projects Status
-<img src="images/monti_nitye.png" width="300">
+<img src="images/monti_nitye3.png" width="300">
 
 ## 🟢 In Progress
 - 3DGS 山

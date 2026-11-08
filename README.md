@@ -9,7 +9,7 @@
   - 最新技術のキャッチアップ
   - 撮影体力向上
 
-### 🫴 On Hold
+## 🫴 On Hold
 
 <details>
 <summary>制作待機中</summary>
@@ -35,7 +35,7 @@
 
 </details>
 
-### 🍵 Someday 
+## 🍵 Someday 
 
 <details>
 <summary>その他のネタ</summary>
@@ -50,7 +50,7 @@
   
 </details>
 
-### 🪂 Close
+## 🪂 Close
 - Shader Fes 2027 入稿 3個入稿した 🚩10月
 - Butterアバター素体準備 🚩9月
 - チョコレートBooth商品アプデ(2026/02/25)🚩２月
